@@ -1,0 +1,2 @@
+{"timestamp":82752,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"mozillaaccounts-toolbar-button-default-visibility-existing-user","experiment_type":"rollout","branch":"treatment-a","enrollment_id":"ba1e0dc5-6f26-4096-8661-b304b51da692"}}
+{"timestamp":82806,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"treatment","experiment":"upgrade-spotlight-rollout","enrollment_id":"8bc09039-1375-4d7e-853e-e966530fb273"}}

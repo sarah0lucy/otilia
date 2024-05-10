@@ -1,0 +1,53 @@
+2024-05-10 12:56:27.289 [info] Log level: Info
+2024-05-10 12:56:27.289 [info] Validating found git in: "git"
+2024-05-10 12:56:27.331 [info] Using git "2.39.2" from "git"
+2024-05-10 12:56:27.383 [info] > git rev-parse --show-toplevel [27ms]
+2024-05-10 12:56:27.383 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.392 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.392 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.400 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 12:56:27.400 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.409 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 12:56:27.410 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.422 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-10 12:56:27.423 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.447 [info] > git rev-parse --show-toplevel [14ms]
+2024-05-10 12:56:27.447 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.462 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-10 12:56:27.462 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.472 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.472 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.479 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.480 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.487 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.487 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.494 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.501 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 12:56:27.501 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.510 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-10 12:56:27.510 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.517 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.517 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.524 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.525 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 12:56:27.531 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 12:56:27.531 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 13:01:21.437 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-10 13:01:21.437 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 13:01:40.571 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-10 13:01:40.571 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-05-10 13:05:09.424 [info] > git init -b main [53ms]
+2024-05-10 13:05:09.435 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 13:05:09.450 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-05-10 13:05:09.475 [info] Open repository: /home/otilia
+2024-05-10 13:05:09.501 [info] No remotes found in the git config file.
+2024-05-10 13:05:09.501 [info] > git config --get commit.template [9ms]
+2024-05-10 13:05:09.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-05-10 13:05:09.508 [warning] No such branch: main.
+2024-05-10 13:05:09.556 [info] > git status -z -uall [41ms]
+2024-05-10 13:05:10.368 [info] > git config --get commit.template [54ms]
+2024-05-10 13:05:10.431 [info] No remotes found in the git config file.
+2024-05-10 13:05:10.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-05-10 13:05:10.436 [warning] No such branch: main.
+2024-05-10 13:05:10.510 [info] > git status -z -uall [69ms]
